@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quoctinapp.github.io/ly-tran-quoc-tin-la-ai/sitemap.xml
